@@ -17,7 +17,7 @@ public class day3 {
         System.out.println("Berat badan saya: " + BeratBadan);
         System.out.println("Jenis kelamin saya: " + JenisKelamin);
         System.out.println("Saat ini saya berstatus sebagai mahasiswa di unsulbar: " + Mahasiswa);
-        System.out.println("JUmlah saudara saya ada : " + JumlahSaudara);
+        System.out.println("Jumlah saudara saya ada : " + JumlahSaudara);
         System.out.println("Ukuran sepatu saya yaitu: " + UkuranSepatu);
     }
 }
