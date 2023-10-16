@@ -8,12 +8,12 @@ public class day7 {
         //memasukkan nama dan umur menggunakan Scanner
         Scanner sc = new Scanner(System.in);
         
-        System.out.print("Masukkan nama anda : ");
+        System.out.print("Masukkan Nama Anda : ");
         String nama = sc.nextLine();
-        System.out.println("Nama saya adalah : " +nama);
+        System.out.println("Nama Saya Adalah : " +nama);
         
-        System.out.print("Masukkan umur anda : ");
+        System.out.print("Masukkan Umur Anda : ");
         int umur = sc.nextInt();
-        System.out.println("Umur saya : " +umur);
+        System.out.println("Umur Saya : " +umur);
     }
 }
