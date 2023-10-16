@@ -9,7 +9,7 @@ public class day6 {
         } else if (usia >= 13 && usia <= 19) {
             System.out.println("Kamu sudah remaja");
         } else if (usia >= 20 && usia <= 59) {
-            System.out.println("Kamu sudahh dewasa");
+            System.out.println("Kamu sudah dewasa");
         } else {
             System.out.println("Kamu sudah tuaaa");
         }
