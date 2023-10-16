@@ -9,11 +9,11 @@ public class day8 {
         Scanner sc = new Scanner(System.in);
         
         System.out.print("Masukkan Panjang Persegi : ");
-        int panjang = sc.nextInt();
+        int Panjang = sc.nextInt();
         
         System.out.print("Masukkan Lebar Persegi : ");
-        int lebar = sc.nextInt();
+        int Lebar = sc.nextInt();
         
-        System.out.println("Luas Persegi Adalah : " + panjang*lebar);
+        System.out.println("Luas Persegi Adalah : " + Panjang*Lebar);
     }
 }
