@@ -8,7 +8,7 @@ public class day8 {
         //Menghitung luas persegi menggunakan scanner
         Scanner sc = new Scanner(System.in);
         
-        System.out.print("Masukkan Panjang Persegi : ");
+        System.out.print("Masukkan Panjang Peersegi : ");
         int Panjang = sc.nextInt();
         
         System.out.print("Masukkan Lebar Persegi : ");
