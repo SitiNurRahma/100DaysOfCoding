@@ -14,6 +14,6 @@ public class day8 {
         System.out.print("Masukkan Lebar Persegi : ");
         int Lebar = sc.nextInt();
         
-        System.out.println("Luas Persegi Adalah : " + Panjang*Lebar);
+        System.out.println("Luas Persegi Adalah : " + Panjang * Lebar);
     }
 }
