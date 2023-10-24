@@ -11,9 +11,9 @@ public class day11 {
         int angka = sc.nextInt();
         
         if(angka %2 ==0 ){
-            System.out.print("Bilangan Genap ");
+            System.out.println("Bilangan Genap ");
         }else{
-            System.out.print("Bilangan ganjil");
+            System.out.println("Bilangan ganjil");
         }
     }
 }
