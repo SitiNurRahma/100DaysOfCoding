@@ -7,7 +7,7 @@ public class day19 {
         while(angka >= 1 ){
             total -= angka;
             angka--;
-            System.out.println("hasil pengurangan : " +total);
+            System.out.println("Hasil pengurangan : " +total);
         }
     }
 }
