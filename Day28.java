@@ -1,6 +1,6 @@
 package ISC;
 
-public class day28 {
+public class Day28 {
     public static void main(String[] args) {
         int hasil = hitungJumlah(5);
         System.out.println("Hasil perulangan: " + hasil);
