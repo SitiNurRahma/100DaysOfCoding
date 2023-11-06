@@ -3,7 +3,7 @@ package ISC;
 public class day28 {
     public static void main(String[] args) {
         int hasil = hitungJumlah(5);
-        System.out.println("Hasil perulangan: " + hasil);
+        System.out.println("Hasil Perulangan: " + hasil);
     }
 
     public static int hitungJumlah(int i) {
