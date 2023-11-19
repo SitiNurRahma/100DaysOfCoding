@@ -1,8 +1,9 @@
+
 package ISC;
 
 import java.util.Scanner;
 
-public class day40 {
+public class Day40 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
