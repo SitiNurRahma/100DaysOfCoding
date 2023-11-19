@@ -14,7 +14,7 @@ public class day40 {
 
             total += angka;
 
-            System.out.println("Total penjumlahan : " + total);
+            System.out.println("Total Penjumlahan : " + total);
 
             System.out.print("Ingin memasukkan angka lagi? (Y/N): ");
             String input = scanner.next();
