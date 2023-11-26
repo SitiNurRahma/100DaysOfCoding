@@ -19,8 +19,8 @@ public class day49 {
             }
         }
         for (int i = 0; i <Genap.size() ; i++) {
-            System.out.println("ArrayGenap " + Genap.get(i));
-            System.out.println("ArrayGanjil "+ Ganjil.get(i));
+            System.out.println("ArrayGenap : " + Genap.get(i));
+            System.out.println("ArrayGanjil : "+ Ganjil.get(i));
         }
     }
 }
