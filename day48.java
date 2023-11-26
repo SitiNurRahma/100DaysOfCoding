@@ -9,7 +9,7 @@ public class day48 {
         Scanner sc = new Scanner(System.in);
         ArrayList<Integer> numbers =  new ArrayList();
         
-        System.out.print("Masukkan panjang : ");
+        System.out.print("Masukkan Panjang : ");
         int panjang = sc.nextInt();
         
         for (int i = 0; i < panjang; i++) {
