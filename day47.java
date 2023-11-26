@@ -12,7 +12,7 @@ public class day47 {
         int[] numbers = new int[panjang];
         
         for (int i = 0; i < panjang; i++) {
-            System.out.print("nilai : "); 
+            System.out.print("Nilai : "); 
             int nilai = sc.nextInt();
             numbers[i] = nilai;
         }
