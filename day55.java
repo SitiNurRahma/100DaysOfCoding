@@ -10,13 +10,13 @@ public class day55 {
         int batas_angka = sc.nextInt();
 
         if (batas_angka % 2 == 0) {
-            System.out.println("Angka Genap");
+            System.out.println("Angka Genap : ");
             for (int i = 2; i <= batas_angka; i += 2) {
                 System.out.println(i + "");
 
             }
         } else {
-            System.out.println("Angka Ganjil");
+            System.out.println("Angka Ganjil :");
             for (int i = 1; i <= batas_angka; i += 2) {
                 System.out.println(i + "");
             }
