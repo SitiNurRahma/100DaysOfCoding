@@ -1,4 +1,3 @@
-
 package ISC;
 
 public class day76 {
